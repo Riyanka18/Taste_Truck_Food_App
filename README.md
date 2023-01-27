@@ -1,4 +1,4 @@
-## This readme file comprises of the description of all the activities and layouts of the demo food app this repository also contains the apk of the Food delivery Application.
+### This readme file comprises of the description of all the activities and layouts of the demo food app this repository also contains the apk of the Food delivery Application.
 
 ### The screenshots of the different segments of the application and its utilities will be listed below.
 
